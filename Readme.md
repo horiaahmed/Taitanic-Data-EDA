@@ -8,7 +8,7 @@
 ## 📌 Project Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on the famous Titanic dataset using Python. The notebook demonstrates data cleaning, handling missing values, querying data with Pandas, and creating visualizations to uncover patterns related to passenger survival.
-
+### Goal : To apply Different Statistics approches 
 ---
 
 ## 📂 Dataset
